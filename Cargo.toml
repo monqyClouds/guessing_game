@@ -1,7 +1,9 @@
 [package]
-name = "guessing_game"
+name = "monqyclouds_guessing_game"
 version = "0.1.0"
 edition = "2021"
+license = "MIT or Apache-2.0"
+description = "Fun and simple CLI game where you guess numbers chosen by the computer randomly"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
